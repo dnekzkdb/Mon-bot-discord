@@ -27,4 +27,4 @@ client.on('messageCreate', message => {
 });
 
 // Connecte ton bot à Discord en utilisant ton Token secret
-client.login('MTU2OTgzNjQ0MTA3NTE5NTk0NQ.GPViUg.VobYE-CB_Xn40NvhK-fy-B9tPUMds7oJdpRU5s');
+client.login('MTU2OTgzNjQ0MTA3NTE5NTk0NQ.Gi-UuS.9m3VHSGlO-tt7DkY95oupdocdi8kTISuT6f3e4');
